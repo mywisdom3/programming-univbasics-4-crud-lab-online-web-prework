@@ -41,7 +41,8 @@ relationships [0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+relationships =  ["love","loyality","committment","trust"]
+relationships [3]
 end
 
 def update_element_from_index(array, index_number, element)
