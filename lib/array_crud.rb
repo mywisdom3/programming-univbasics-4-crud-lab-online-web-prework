@@ -47,5 +47,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 relationships =  ["love","loyality","committment","trust"]
-relationships [2] = 
+relationships [2] = "time"
 end
