@@ -46,5 +46,6 @@ relationships [3]
 end
 
 def update_element_from_index(array, index_number, element)
+relationships =  ["love","loyality","committment","trust"]
 
 end
